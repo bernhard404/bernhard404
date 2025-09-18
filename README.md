@@ -1,8 +1,8 @@
 👋 Hey there!
 
-Thanks for stopping by. 🌟
-Feel free to explore my projects. 🚀
-Have a good day! ☀️
+Thanks for stopping by. 🌟  
+Feel free to explore my projects. 🚀  
+Have a good day! ☀️  
 
 <!--
 **bernhard404/bernhard404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
