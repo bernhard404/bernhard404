@@ -1,7 +1,8 @@
-# 👋 Hallo!  
+👋 Hey there!
 
-Have a good day! ☀️  
-Viel Spaß beim Stöbern auf meinem GitHub. 🚀
+Thanks for stopping by. 🌟
+Feel free to explore my projects. 🚀
+Have a good day! ☀️
 
 <!--
 **bernhard404/bernhard404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
